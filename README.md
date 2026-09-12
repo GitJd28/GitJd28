@@ -2,7 +2,7 @@
 <h3 align="center">Turning workflows into insights — one automation at a time 📊</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Power+Platform+Intern+%40+ScoreMe+Solutions;Building+towards+Data+Analytics;Automation+%2B+CV+%2B+Dashboards+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Power+Platform+Intern+%40+;Building+towards+Data+Analytics;Automation+%2B+CV+%2B+Dashboards+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
