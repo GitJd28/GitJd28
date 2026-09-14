@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="" width="100%"/>
+  <img src="./assets/Banner.svg" alt="" width="100%"/>
 </p>
 
 <h1 align="center">Janhavi Deo</h1>
