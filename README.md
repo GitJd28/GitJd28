@@ -35,8 +35,12 @@ I'm a Power Platform intern automating real business workflows — but the part 
 ### `> connect`
 
 <p align="left">
-  <a href="https://linkedin.com/in/<https://www.linkedin.com/in/janhavi-deo-4b769a30b/>"><img src="https://img.shields.io/badge/LinkedIn-7209b7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0014"/></a>
-  <a href="mailto:jdeo2810@gmail.com"><img src="https://img.shields.io/badge/Email-b5179e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0014"/></a>
+  <a href="https://www.linkedin.com/in/janhavi-deo-4b769a30b">
+    <img src="https://img.shields.io/badge/LinkedIn-7209b7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0014"/>
+  </a>
+  <a href="mailto:jdeo2810@gmail.com">
+    <img src="https://img.shields.io/badge/Email-b5179e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0014"/>
+  </a>
 </p>
 
 ---
