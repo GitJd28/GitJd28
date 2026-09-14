@@ -26,7 +26,7 @@
 ```
 name           : Janhavi Deo
 studying       : Final-year B.Tech, AI & Data Science
-current_role   : Power Platform Intern @ ScoreMe Solutions
+current_role   : Power Platform Intern
 moving_toward  : Data Analyst — dashboards, insights, business impact
 ```
 
@@ -40,8 +40,6 @@ I'm a Power Platform intern automating real business workflows — but the part 
   <a href="https://linkedin.com/in/<your-linkedin-handle>"><img src="https://img.shields.io/badge/LinkedIn-7209b7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0014"/></a>
   <a href="mailto:jdeo2810@gmail.com"><img src="https://img.shields.io/badge/Email-b5179e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0014"/></a>
 </p>
-
-> ⚠️ Fix before publishing: replace `<your-linkedin-handle>` above with your actual LinkedIn URL slug (find it in your profile URL — it looks like `linkedin.com/in/janhavi-deo-xxxxxx`, not your full name).
 
 ---
 
