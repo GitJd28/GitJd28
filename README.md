@@ -30,16 +30,18 @@ current_role   : Power Platform Intern @ ScoreMe Solutions
 moving_toward  : Data Analyst — dashboards, insights, business impact
 ```
 
-I'm a Power Platform intern automating real business workflows , but the part I enjoy most is what comes after: turning what those workflows generate into something people can actually read and act on. That's the pull toward Data Analytics.
+I'm a Power Platform intern automating real business workflows — but the part I enjoy most is what comes after: turning what those workflows generate into something people can actually read and act on. That's the pull toward Data Analytics.
 
 ---
 
 ### `> connect`
 
 <p align="left">
-  <a href="https://linkedin.com/in/<https://www.linkedin.com/in/janhavi-deo-4b769a30b/>"><img src="https://img.shields.io/badge/LinkedIn-7209b7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0014"/></a>
+  <a href="https://linkedin.com/in/<your-linkedin-handle>"><img src="https://img.shields.io/badge/LinkedIn-7209b7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0014"/></a>
   <a href="mailto:jdeo2810@gmail.com"><img src="https://img.shields.io/badge/Email-b5179e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0014"/></a>
 </p>
+
+> ⚠️ Fix before publishing: replace `<your-linkedin-handle>` above with your actual LinkedIn URL slug (find it in your profile URL — it looks like `linkedin.com/in/janhavi-deo-xxxxxx`, not your full name).
 
 ---
 
@@ -128,7 +130,7 @@ A collection of Power BI dashboards — turning raw datasets into interactive vi
 - Getting hands-on with the visualization layer of automation pipelines
 - Sharpening the Data Analyst skill set: SQL, dashboarding, and communicating findings clearly
 
-
+<!--
   OPTIONAL — GitHub stats. Left commented out since your commit activity is
   currently low due to the internship; uncomment once it picks back up so
   the numbers work for you rather than against you.
@@ -141,7 +143,7 @@ A collection of Power BI dashboards — turning raw datasets into interactive vi
   <p align="left">
     <img src="https://streak-stats.demolab.com/?user=GitJd28&theme=radical&hide_border=true&background=0b0014&ring=f72585&fire=b5179e&currStreakLabel=f72585" height="165"/>
   </p>
-
+-->
 
 <p align="center">
   <img src="./assets/banner.svg" alt="" width="100%"/>
