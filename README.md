@@ -1,21 +1,27 @@
 <!--
-  GITHUB PROFILE README — swan theme
-  This file + assets/swan-banner.svg both need to go into a repo named
+  GITHUB PROFILE README — terminal / gradient theme
+  This file + assets/banner.svg both need to go into a repo named
   EXACTLY your GitHub username: github.com/GitJd28/GitJd28
   Folder structure needed:
     GitJd28/
       README.md
       assets/
-        swan-banner.svg
+        banner.svg
 -->
 
 <p align="center">
-  <img src="./assets/swan-banner.svg" alt="Janhavi Deo" width="100%"/>
+  <img src="./assets/banner.svg" alt="" width="100%"/>
+</p>
+
+<h1 align="center">Janhavi Deo</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/system-online-b5179e?style=flat-square&labelColor=0b0014"/>
+  <img src="https://img.shields.io/badge/status-final--year%20B.Tech%2C%20AI%20%26%20DS-7209b7?style=flat-square&labelColor=0b0014"/>
 </p>
 
 ---
 
-### 💫 About Me
+### `> whoami`
 
 ```
 name           : Janhavi Deo
@@ -24,35 +30,33 @@ current_role   : Power Platform Intern @ ScoreMe Solutions
 moving_toward  : Data Analyst — dashboards, insights, business impact
 ```
 
-I'm a Power Platform intern automating real business workflows — but the part I enjoy most is what comes after: turning what those workflows generate into something people can actually read and act on. That's the pull toward Data Analytics.
+I'm a Power Platform intern automating real business workflows , but the part I enjoy most is what comes after: turning what those workflows generate into something people can actually read and act on. That's the pull toward Data Analytics.
 
 ---
 
-### 🌐 Socials
+### `> connect`
 
 <p align="left">
-  <a href="https://linkedin.com/in/<your-linkedin-handle>"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jdeo2810@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/<https://www.linkedin.com/in/janhavi-deo-4b769a30b/>"><img src="https://img.shields.io/badge/LinkedIn-7209b7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0014"/></a>
+  <a href="mailto:jdeo2810@gmail.com"><img src="https://img.shields.io/badge/Email-b5179e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0014"/></a>
 </p>
-
-> ⚠️ Fix before publishing: replace `<your-linkedin-handle>` above with your actual LinkedIn URL slug (find it in your profile URL — it looks like `linkedin.com/in/janhavi-deo-xxxxxx`, not your full name).
 
 ---
 
-### 🧭 Featured Work
+### `> featured work`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🔍 FusionSight — Child Safety Monitor**
+**FusionSight — Child Safety Monitor**
 Deep learning system for child safety monitoring, combining object detection and pose estimation into one pipeline.
 `Python` `OpenCV` `PyTorch`
 
 </td>
 <td width="50%" valign="top">
 
-**🧊 Break The Ice**
+**Break The Ice**
 Built at a hackathon — rapid end-to-end build under time pressure.
 `Hackathon` `Rapid Prototyping`
 
@@ -61,14 +65,14 @@ Built at a hackathon — rapid end-to-end build under time pressure.
 <tr>
 <td width="50%" valign="top">
 
-**🎧 Spotify Analysis 101**
+**Spotify Analysis 101**
 Exploratory data analysis on Spotify data — cleaning, transforming, and visualizing listening patterns.
 `Python` `Pandas` `Matplotlib`
 
 </td>
 <td width="50%" valign="top">
 
-**📊 Power BI Analytics**
+**Power BI Analytics**
 A collection of Power BI dashboards — turning raw datasets into interactive visual reports.
 `Power BI` `DAX` `Data Visualization`
 
@@ -78,7 +82,7 @@ A collection of Power BI dashboards — turning raw datasets into interactive vi
 
 ---
 
-### 🛠️ Tech Stack
+### `> tech stack`
 
 **Languages**
 <p align="left">
@@ -118,20 +122,27 @@ A collection of Power BI dashboards — turning raw datasets into interactive vi
 
 ---
 
-### 📈 What I'm Focused On Right Now
+### `> currently focused on`
 
 - Building data agents and Copilot agents to automate internal processes at ScoreMe Solutions
 - Getting hands-on with the visualization layer of automation pipelines
 - Sharpening the Data Analyst skill set: SQL, dashboarding, and communicating findings clearly
 
-<!--
+
   OPTIONAL — GitHub stats. Left commented out since your commit activity is
   currently low due to the internship; uncomment once it picks back up so
   the numbers work for you rather than against you.
 
-  ### 📊 GitHub Stats
+  ### `> stats`
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=GitJd28&show_icons=true&theme=dark&hide_border=true" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitJd28&layout=compact&theme=dark&hide_border=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=GitJd28&show_icons=true&theme=radical&hide_border=true&bg_color=0b0014&title_color=f72585&icon_color=b5179e" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitJd28&layout=compact&theme=radical&hide_border=true&bg_color=0b0014&title_color=f72585" height="165"/>
   </p>
--->
+  <p align="left">
+    <img src="https://streak-stats.demolab.com/?user=GitJd28&theme=radical&hide_border=true&background=0b0014&ring=f72585&fire=b5179e&currStreakLabel=f72585" height="165"/>
+  </p>
+
+
+<p align="center">
+  <img src="./assets/banner.svg" alt="" width="100%"/>
+</p>
