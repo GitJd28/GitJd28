@@ -12,8 +12,6 @@
 <p align="center">
   <img src="./assets/Banner.jpeg" alt="" width="100%"/>
 </p>
-
-<h1 align="center">Janhavi Deo</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/system-online-b5179e?style=flat-square&labelColor=0b0014"/>
   <img src="https://img.shields.io/badge/status-final--year%20B.Tech%2C%20AI%20%26%20DS-7209b7?style=flat-square&labelColor=0b0014"/>
