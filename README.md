@@ -1,23 +1,41 @@
-<h1 align="center">Hi, I'm JD 👋</h1>
-<h3 align="center">Turning workflows into insights — one automation at a time 📊</h3>
+<!--
+  GITHUB PROFILE README — swan theme
+  This file + assets/swan-banner.svg both need to go into a repo named
+  EXACTLY your GitHub username: github.com/GitJd28/GitJd28
+  Folder structure needed:
+    GitJd28/
+      README.md
+      assets/
+        swan-banner.svg
+-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Power+Platform+Intern+%40+;Building+towards+Data+Analytics;Automation+%2B+CV+%2B+Dashboards+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="./assets/swan-banner.svg" alt="Janhavi Deo" width="100%"/>
 </p>
 
 ---
 
-### 📌 About Me
+### 💫 About Me
 
 ```
-studying       : B.Tech, Artificial Intelligence & Data Science (Final Year)
+name           : Janhavi Deo
+studying       : Final-year B.Tech, AI & Data Science
+current_role   : Power Platform Intern @ ScoreMe Solutions
 moving_toward  : Data Analyst — dashboards, insights, business impact
-currently      : building AI/automation agents in production, learning the path from "automating a process" to "explaining a process"
 ```
 
-I'm a Power Platform intern automating real business workflows — but the part I enjoy most isn't the automation itself, it's what comes after: turning the data those workflows generate into something people can actually *read* and *act on*. That's what's pulling me toward Data Analytics.
+I'm a Power Platform intern automating real business workflows — but the part I enjoy most is what comes after: turning what those workflows generate into something people can actually read and act on. That's the pull toward Data Analytics.
 
-Below is a mix of what I've built: computer vision, data analysis, and dashboarding — the throughline is always "raw signal → clear insight."
+---
+
+### 🌐 Socials
+
+<p align="left">
+  <a href="https://linkedin.com/in/<your-linkedin-handle>"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jdeo2810@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+> ⚠️ Fix before publishing: replace `<your-linkedin-handle>` above with your actual LinkedIn URL slug (find it in your profile URL — it looks like `linkedin.com/in/janhavi-deo-xxxxxx`, not your full name).
 
 ---
 
@@ -28,14 +46,14 @@ Below is a mix of what I've built: computer vision, data analysis, and dashboard
 <td width="50%" valign="top">
 
 **🔍 FusionSight — Child Safety Monitor**
-Deep learning system for child safety monitoring — combines object detection and pose estimation into one pipeline. Documented as an IEEE-style research paper covering the detection approach and system design.
-`Python` `Computer Vision` `Deep Learning`
+Deep learning system for child safety monitoring, combining object detection and pose estimation into one pipeline.
+`Python` `OpenCV` `PyTorch`
 
 </td>
 <td width="50%" valign="top">
 
 **🧊 Break The Ice**
-Built at a hackathon - rapid-build project under time pressure, shipped end-to-end.
+Built at a hackathon — rapid end-to-end build under time pressure.
 `Hackathon` `Rapid Prototyping`
 
 </td>
@@ -44,15 +62,15 @@ Built at a hackathon - rapid-build project under time pressure, shipped end-to-e
 <td width="50%" valign="top">
 
 **🎧 Spotify Analysis 101**
-Exploratory data analysis on Spotify data — cleaning, transforming, and visualizing listening patterns with Pandas and Matplotlib.
-`Python` `Pandas` `Matplotlib` `EDA`
+Exploratory data analysis on Spotify data — cleaning, transforming, and visualizing listening patterns.
+`Python` `Pandas` `Matplotlib`
 
 </td>
 <td width="50%" valign="top">
 
 **📊 Power BI Analytics**
-A collection of Power BI dashboards — turning raw datasets into interactive visual reports for decision-making.
-`Power BI` `Data Visualization` `DAX`
+A collection of Power BI dashboards — turning raw datasets into interactive visual reports.
+`Power BI` `DAX` `Data Visualization`
 
 </td>
 </tr>
@@ -60,17 +78,42 @@ A collection of Power BI dashboards — turning raw datasets into interactive vi
 
 ---
 
-### 🛠️ Toolbox
+### 🛠️ Tech Stack
 
+**Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+**Data, ML & Analysis**
+<p align="left">
+  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/opencv-white?style=flat-square&logo=opencv&logoColor=black"/>
+</p>
+
+**BI & Automation**
+<p align="left">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+**Design & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-121011?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gitlab-181717?style=flat-square&logo=gitlab&logoColor=white"/>
 </p>
 
 ---
@@ -78,24 +121,17 @@ A collection of Power BI dashboards — turning raw datasets into interactive vi
 ### 📈 What I'm Focused On Right Now
 
 - Building data agents and Copilot agents to automate internal processes at ScoreMe Solutions
-- Getting hands-on with the visualization layer of automation pipelines — where the "insight" actually gets delivered
+- Getting hands-on with the visualization layer of automation pipelines
 - Sharpening the Data Analyst skill set: SQL, dashboarding, and communicating findings clearly
 
----
-
-### 📫 Reach Me
-
-<p align="left">
-  <a href="mailto:<your-email>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
 <!--
-  OPTIONAL — add back once your commit activity picks up post-internship:
+  OPTIONAL — GitHub stats. Left commented out since your commit activity is
+  currently low due to the internship; uncomment once it picks back up so
+  the numbers work for you rather than against you.
 
   ### 📊 GitHub Stats
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default&hide_border=true" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&hide_border=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=GitJd28&show_icons=true&theme=dark&hide_border=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitJd28&layout=compact&theme=dark&hide_border=true" height="165"/>
   </p>
 -->
