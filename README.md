@@ -26,7 +26,7 @@ name           : Janhavi Deo
 studying       : Final-year B.Tech, AI & Data Science
 ```
 
-I'm a Power Platform intern automating real business workflows — but the part I enjoy most is what comes after: turning what those workflows generate into something people can actually read and act on. That's the pull toward Data Analytics.
+I'm a Power Platform intern automating real business workflows ,but the part I enjoy most is what comes after: turning what those workflows generate into something people can actually read and act on. That's the pull toward Data Analytics.
 
 ---
 
